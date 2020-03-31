@@ -1,6 +1,6 @@
 # [Hack The Box](https://hackthebox.eu)
 
-* **1st place in Hungary** after a year's break reached [1st place on the Hungarian scoreboard on 31-03-2020](hackthebox_HUN-20200331.png)
+* **1st place in Hungary**: after a year's break reached [1st place on the Hungarian scoreboard on 31-03-2020](hackthebox_HUN-20200331.png)
 
 * **in top 10 of 108680 registered players**, again. current profile with ranking: [an0n](http://web.archive.org/web/20190223205510/https://www.hackthebox.eu/profile/2260), pwned all of the 99 systems + challenges + special tracks on 23-02-2019
 
